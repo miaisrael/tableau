@@ -27,7 +27,9 @@ Generational Trends
     Interestingly, despite the COVID-19 pandemic taking place in 2020, maximum trip duration increased from 2018 to 2020 pretty steadily. This may be due to users keeping bikes longer than normal for personal use due to fear or sharing or giving up transport. As expected, average trip duration decreased across generations from 2018- 2020, with the exception of Gen Z users. That generation took longer trips in 2020 than in 2019.
     Gen Z users saw the greatest drop in trip duration between 2018-2019. All other users slightly increased throughout the time period.
     Millennials and Gen Xers took the most trips, while Gen Z users took among the fewest- despite being the group taking the consistently longest trips. This may be due to the fact that younger people are less likely to have their own transportation or the means for more expensive forms of transportation. 
-    Yearly Demographics and Trends
+
+Yearly Demographics and Trends
+
     Both types of users (subscribers, users with a paid plan with Citi Bike, or customers, pay per ride users) greatly increased between 2018 and 2019, with 2020 seeing a drop in both types. This is likely due to the COVID-19 pandemic, and an increase in the percentage of Customers is an interesting trend here.
     Gen Z users grew the most in the 3-year period, indicating an increasing trend among younger users. This was true despite the COVID-19 pandemic and might be explained by a decreased desire to use public transportation such as the subway, cabs, or rideshare services.
     Male users increased at the highest rate between 2018 and 2019. All users decreased in 2020, likely due to the COVID-19 pandemic, with male users dropping at the highest rate.
